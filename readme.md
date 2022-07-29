@@ -16,6 +16,7 @@ This project is a landing page of a Hosting website built purely in HTML and CSS
 
 Below is the link and the view of the project👇👇👇
 <br>
+[HostingMania](hostingmania.netlify.app)
 
 ![Hosting Website](project11css.png)
 
